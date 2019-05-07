@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    color: rgb(31, 255, 1);
+    width:50%;
+    margin:30px auto;
+    border :3px solid green
+}
+
+html{
+    background-coloor:#2F4F4F;
+    font-family: "Courier New",courier, monospace;  
+}
+
+h1#nome{
+    margin-left: 305px;
+    margin-bottom: -35px;
+
+}
+    
+section{
+    border-bottom: solid Grey;
+
+}

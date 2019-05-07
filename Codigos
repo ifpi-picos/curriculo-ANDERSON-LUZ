@@ -1,0 +1,8 @@
+    git status (opcional)
+
+    git add .
+
+    git commit -m "CurriculoAnderson"
+
+    git push origin master
+
